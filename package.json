@@ -1,0 +1,24 @@
+{
+  "name": "react-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple react-ts boilerplate that use parcel and lint to standardize code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-ts-boilerplate"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "ts",
+    "boilerplate",
+    "parcel",
+    "prettier",
+    "lint"
+  ],
+  "author": "m-ossolinski",
+  "license": "MIT"
+}
