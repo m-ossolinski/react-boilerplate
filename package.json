@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "clear-build-cache": "rm -rf .cache/ dist/",
-    "dev": "parcel src/index.js",
+    "dev": "parcel public/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "react-ts-boilerplate"
+    "url": "react-boilerplate"
   },
   "keywords": [
     "react",
