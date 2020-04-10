@@ -1,7 +1,7 @@
 {
-  "name": "react-ts-boilerplate",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "A simple react-ts boilerplate that use parcel and lint to standardize code.",
+  "description": "A simple react boilerplate that use parcel and lint to standardize code.",
   "main": "index.js",
   "scripts": {
     "clear-build-cache": "rm -rf .cache/ dist/",

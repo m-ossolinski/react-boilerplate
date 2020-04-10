@@ -4,7 +4,7 @@ import './index.scss';
 export const App = () => (
   <div className="main">
     <div>
-      <h1>React-TS-boilerplate</h1>
+      <h1>React-boilerplate</h1>
     </div>
     <div>
       <p>A simple react-boilerplate without using create-react-app.</p>
