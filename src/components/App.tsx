@@ -1,13 +1,13 @@
-import React from 'react';
+import React, { FunctionComponent } from 'react';
 import './index.scss';
 
-export const App = () => (
+export const App: FunctionComponent = () => (
   <div className="main">
     <div>
-      <h1>React-boilerplate</h1>
+      <h1>React-TS-boilerplate</h1>
     </div>
     <div>
-      <p>A simple react-boilerplate without using create-react-app.</p>
+      <p>A simple React-Typescript-boilerplate without using create-react-app.</p>
       <span>
         <p>It contains:</p>
         <ul>

@@ -1,4 +1,4 @@
-# react-boilerplate
+# React-TS-boilerplate
                  
 A simple boilerplate created to use instead of create-react-app.
 
